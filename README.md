@@ -1,7 +1,7 @@
 # SeMyB_Yossmayer_ratio
 Proyecto conjunto de análisis de imágenes de Yossmayer iniciado 11-2023
 
-**Métodos del paper original**
+**Métodos del paper original** \n
 Confocal laser scanning microscopy and image analysis
 Plants and recombinant HyPer7 were imaged in a confocal laser scanning microscope (Zeiss
 LSM 780, connected to an Axio Observer.Z1; Carl Zeiss Microscopy, Jena, Germany) using a 5x
