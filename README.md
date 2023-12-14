@@ -20,3 +20,10 @@ Instruments, Hamden, CT). To inhibit photosystem II (PSII), samples were pre-tre
 405 nm / 488 nm for roGFP2-Orp1 and **488 nm / 405 nm for HyPer and HyPer7 and normalized to the ratio values at the start of the experiments (t = 0 min).** Ratiometric imaging
 and analysis of single plane images was performed with a custom-written MATLAB script
 (Fricker, 2016) or FIJI (Schindelin et al., 2012). 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=
+20203-12-14
+
+Armo una imagen de prueba en fiji dividiendo Canal 2 (488)/ Canal 1 (405).
+Paso todas las im'agenes a 32 bit.
+Uso LUT Royal para visualizar.
